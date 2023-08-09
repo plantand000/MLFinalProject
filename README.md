@@ -1,4 +1,4 @@
-# MLFinalProject
+# In Hosptial Mortality Rate Prediction Model
 This repo contains the final project repository for CSCE 421 Machine Learning.
 
 Dataset:
