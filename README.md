@@ -1,5 +1,5 @@
 # In Hosptial Mortality Rate Prediction Model
-This repo contains the final project repository for CSCE 421 Machine Learning.
+This repo contains a machine learning pipeline that predictions in the mortality rate of in hospital patients.
 
 Dataset:
 The dataset is a subset of the eICU data. You will be predicting in-hospital mortality (binary classification task predicting whether a patient will expire during their hospital stay). You can find a more detailed description of the data in the "Data" tab above.
